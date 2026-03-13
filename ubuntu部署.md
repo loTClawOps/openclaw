@@ -55,4 +55,5 @@
 	openclaw doctor --fix			//清理缓存并重新对齐
 	openclaw security audit --fix	//安全基准刷新
 	openclaw --version				//验证版本
+	openclaw devices approve --latest	//批准配对
                                                              
